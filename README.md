@@ -1,1 +1,1 @@
-# script
+arsenal script
